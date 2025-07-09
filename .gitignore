@@ -1,0 +1,9 @@
+# Python virtual environment
+summarization_env/
+
+# Cached datasets and models
+~/.cache/huggingface/
+
+# Python cache files
+__pycache__/
+*.pyc
